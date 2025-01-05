@@ -32,7 +32,7 @@ const PortfolioData = [
       {
         project: "Steganography Android App",
         client: "Assignment",
-        language: "Java",
+        language: "Java, Android Studio",
         preview: "GitHub Link",
         link: "https://github.com/ashenbgy/Steganography-Android-App",
       },
