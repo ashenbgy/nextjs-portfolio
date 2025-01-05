@@ -1,6 +1,6 @@
 const metadata = {
     Home: {
-      title: "Ashen Bhagya | Passionate Personal Portfolio",
+      title: "Ashen Bhagya | Personal Portfolio",
       description: "Personal portfolio of Ashen Bhagya, skilled in Java, Spring Boot and Micro-services. Let's connect.",
       keywords: "Ashen Bhagya, software engineer Sri Lanka, web developer Sri Lanka, React developer Sri Lanka, Sri Lanka tech portfolio",
     },

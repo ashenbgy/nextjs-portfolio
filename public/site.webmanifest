@@ -1,7 +1,7 @@
 {
     "name": "Ashen Bhagya Personal Portfolio",
     "short_name": "Portfolio",
-    "description": "Passionate software engineer in Sri Lanka, skilled in Java, Spring Boot and Mice-services.",
+    "description": "Passionate software engineer in Sri Lanka, skilled in Java, Spring Boot and Micro-services.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
