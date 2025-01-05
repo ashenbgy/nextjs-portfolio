@@ -4,7 +4,7 @@ import { useRouter } from 'next/router';
 
 const SEO = ({ pageTitle, metaDescription, metaKeywords, breadcrumb }) => {
   const router = useRouter();
-  const baseUrl = "https://ashenbgy.github.io";
+  const baseUrl = "https://ashenbgy.vercel.app";
   const path = router.asPath === "/" ? "/" : `${router.asPath}.html`;
   const currentUrl = `${baseUrl}${path}`;
 
