@@ -22,6 +22,8 @@ const SwitchDark = () => {
         type="checkbox"
         onClick={handleLabelClick}
         className="theme-switcher"
+        id="theme-switcher" 
+        name="theme-switcher"
       />
       <div className="switch-handle">
         <span className="light-text">
