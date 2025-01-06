@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'next/link';
 import Achievements from "./Achievements";
 import Education from "./Education";
 import Experience from "./Experience";
@@ -40,10 +41,10 @@ const index = () => {
               {/* End personal info */}
 
               <div className="col-12 mt-1">
-                <a className="button" href="/portfolio">
-                  <span className="button-text">View My Portfolio</span>
-                  <span className="button-icon fa fa-briefcase"></span>
-                </a>
+                <Link href="/portfolio" className="button">
+                    <span className="button-text">View My Portfolio</span>
+                    <span className="button-icon fa fa-briefcase"></span>
+                </Link>
               </div>
               {/* Read articles button */}
 
