@@ -40,9 +40,9 @@ const index = () => {
               {/* End personal info */}
 
               <div className="col-12 mt-1">
-                <a className="button" href="https://https://medium.com/@ashenbhagye">
-                  <span className="button-text">Read Articles</span>
-                  <span className="button-icon fa fa-comments"></span>
+                <a className="button" href="/portfolio">
+                  <span className="button-text">View My Portfolio</span>
+                  <span className="button-icon fa fa-briefcase"></span>
                 </a>
               </div>
               {/* Read articles button */}
