@@ -9,8 +9,9 @@ const personalInfoContent = [
   { meta: "langages", metaInfo: "Sinhala, English", hasColor: "" },
   { meta: "Email", metaInfo: <a href="mailto:ashenbhagye@gmail.com" className="text-decoration-none">ashenbhagye@gmail.com</a>, hasColor: "" },
   { meta: "LinkedIn", metaInfo: <a href="https://www.linkedin.com/in/ashen-bhagya" className="text-decoration-none">ashen-bhagya</a>, hasColor: "" },
-  { meta: "HackerRank", metaInfo: <a href="https://www.hackerrank.com/profile/AlphaASH" className="text-decoration-none">AlphaASH</a>, hasColor: "" },
   { meta: "Medium", metaInfo: <a href="https://https://medium.com/@ashenbhagye" className="text-decoration-none">@ashenbhagye</a>, hasColor: "" },
+  { meta: "HackerRank", metaInfo: <a href="https://www.hackerrank.com/profile/AlphaASH" className="text-decoration-none">AlphaASH</a>, hasColor: "" },
+  { meta: "LeetCode", metaInfo: <a href="https://leetcode.com/ashenbgy" className="text-decoration-none">ashenbgy</a>, hasColor: "" },
 ];
 
 const PersonalInfo = () => {
